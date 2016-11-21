@@ -1,6 +1,7 @@
 # CloudServices
 
 http://www.slideshare.net/predo/how-to-put-100k-lines-of-code-into-the-google-cloud-storms-and-rainbows
+https://blogs.endjin.com/2016/11/aws-vs-azure-vs-google-cloud-platform-networking/
 
 http://knowledgeblob.com/wp-content/uploads/2015/06/cloud-stack.png
 https://www.smartfile.com/blog/wp-content/uploads/2013/06/UnderstandingCloudComputing-e12911886773681.jpg
